@@ -1,2 +1,2 @@
-# configs
-files and scripts to setup work env
+# dotfiles
+Repo holds files and scripts to setup my work environment.
