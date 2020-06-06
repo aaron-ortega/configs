@@ -1,0 +1,8 @@
+# Pycharm
+.idea
+
+# Mac
+.DS_Store
+
+# Brew file
+Brewfile.lock.json
