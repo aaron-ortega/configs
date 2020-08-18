@@ -4,6 +4,7 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "aws/tap"
 tap "fishtown-analytics/dbt"
+tap "fullscreen/tap"
 
 # set arguments for all 'brew cask install' commands
 cask_args appdir: "~/Applications"
@@ -33,3 +34,4 @@ brew "docker-compose"
 brew "jq"
 brew "pyenv"
 brew "pre-commit"
+brew "aws-rotate-key"
